@@ -91,6 +91,7 @@
   "active": "84659a1f4ccb472c",
   "lastOpenFiles": [
     "README.md",
+    "LICENSE.md",
     "004 - Archives.md",
     "003 - Resources.md",
     "002 - Areas.md",
@@ -98,7 +99,6 @@
     "D - Templates/(Template) - Project.md",
     "B - Notes/README.md.md",
     "D - Templates/(Partial template) - Housekeeping.md",
-    "D - Templates/(Template controller) - Base.md",
-    "D - Templates/(Template) - Area.md"
+    "D - Templates/(Template controller) - Base.md"
   ]
 }

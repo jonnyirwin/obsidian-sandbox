@@ -8,7 +8,7 @@ Having watched some videos on how to implement PARA, none of them seemed to fit 
 
 This sandbox is very much a work in progress.
 
-## How to use this sandbox##
+## How to use this sandbox ##
 
 ### Setup ###
 - Download and install Obsidian.
