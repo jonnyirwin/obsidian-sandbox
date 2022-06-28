@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "de004697151ed13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "84659a1f4ccb472c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94b34e4a7e8bc866",
+    "type": "split",
+    "children": [
+      {
+        "id": "5045434421f25619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a68350bbf2c50803",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b494d4162e0c4dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#type/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9acd52bd8d0e0ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "43fa6ebe2f722237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e52753baa217971",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84659a1f4ccb472c",
+  "lastOpenFiles": [
+    "README.md",
+    "004 - Archives.md",
+    "003 - Resources.md",
+    "002 - Areas.md",
+    "001 - Projects.md",
+    "D - Templates/(Template) - Project.md",
+    "B - Notes/README.md.md",
+    "D - Templates/(Partial template) - Housekeeping.md",
+    "D - Templates/(Template controller) - Base.md",
+    "D - Templates/(Template) - Area.md"
+  ]
+}
