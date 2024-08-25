@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "78a0fe1a3667bc16",
+    "type": "split",
+    "children": [
+      {
+        "id": "b666fcf8898e3520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b6b34e950c98ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a2d76ef204aaa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2f4ca475f651074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311c216ec59da161",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "512252fdcf403ce8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffd348d81a8710bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3841502ec25e9050",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a89aadaf6c43e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cce6a4ab0adf259",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f65399d1ccf4edfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04ce1fb0647cfbf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a9cdc243da31f9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa76edd73351c043",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "11b6b34e950c98ae",
+  "lastOpenFiles": [
+    "001 - Projects.md",
+    "B - Notes/Setting up a new Second Brain.md",
+    "D - Templates/(Template) - Daily Note.md",
+    "D - Templates/(Template) - Note.md",
+    "004 - Archives.md",
+    "003 - Resources.md",
+    "002 - Areas.md",
+    "README.md",
+    "E - Scripts",
+    "D - Templates",
+    "C - Media",
+    "LICENSE.md",
+    "B - Notes",
+    "A - Inbox"
+  ]
+}
