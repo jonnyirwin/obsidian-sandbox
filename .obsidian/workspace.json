@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b666fcf8898e3520",
+        "id": "7051a515af4824d2",
         "type": "tabs",
         "children": [
           {
-            "id": "11b6b34e950c98ae",
+            "id": "61db1ac663c880ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Setting up a new Second Brain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "B - Notes/Setting up a new Second Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "B - Notes/Setting up a new Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "B - Notes/Setting up a new Second Brain.md"
+              }
             }
           },
           {
@@ -132,13 +140,23 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c15a4d5cf19a782e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "B - Notes/Setting up a new Second Brain.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +169,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11b6b34e950c98ae",
+  "active": "61db1ac663c880ee",
   "lastOpenFiles": [
+    "B - Notes/Untitled.md",
+    "B - Notes/Untitled 5.md",
+    "B - Notes/Untitled 4.md",
+    "D - Templates/(Template) - Project.md",
+    "B - Notes/Untitled 3.md",
+    "B - Notes/Untitled 2.md",
+    "D - Templates/(Template) - Note.md",
+    "D - Templates/(Template) - Daily Note.md",
+    "D - Templates/(Partial template) - Common Frontmatter.md",
+    "002 - Areas.md",
+    "B - Notes/Untitled 1.md",
     "001 - Projects.md",
     "B - Notes/Setting up a new Second Brain.md",
-    "D - Templates/(Template) - Daily Note.md",
-    "D - Templates/(Template) - Note.md",
     "004 - Archives.md",
     "003 - Resources.md",
-    "002 - Areas.md",
     "README.md",
     "E - Scripts",
     "D - Templates",

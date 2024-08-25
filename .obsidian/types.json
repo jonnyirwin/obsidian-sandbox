@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "projects": "multitext",
+    "areas": "multitext",
+    "resources": "multitext",
+    "priority": "number"
+  }
+}
