@@ -1,4 +1,3 @@
-
 # Setting up a new Second Brain
 ## Create base folders and files
 ### Folders to create
@@ -39,13 +38,15 @@
 			- QuickAdd
 			- Style Settings
 			- Templater
+			- Tasks
 	- Core plugins
 		- Daily Notes
 			- New file location - **A - Inbox**
 			- Template file location - **D - Templates/(Template) - Daily Note**
 	- Community plugins
 		- Dataview
-			- Enable Inline Queries - **true**
+			- Enable Inline Queries - **true** (currently not enabled)
+			- Enable JavaScript Queries - **true**
 		- QuickAdd
 		- Style Settings
 			- Catppuccin Accents
@@ -58,3 +59,23 @@
 				- **B - Notes** - **D - Templates/(Template) - Note.md
 			- User script functions
 				- Script files folder location - **E -Scripts**
+		- Metabind
+			- Enable JavaScript
+## TODO
+- [ ] Next Actions
+- [ ] Top level MOCs
+	- [ ] Projects
+	- [ ] Areas
+	- [ ] Resources
+	- [ ] Archives
+- [ ] Meetings - automatically pickup project that it is under - using a quickadd macro which allows you to run user scripts and access the obsidian and quickadd apis.
+- [ ] TODOs
+- [ ] Back and forward on daily notes
+- [ ] Startup page with keyboard shortcuts
+- [ ] Project daily actions (form of TODOs)
+- [ ] change priority/status of Projects from MOC 
+- [ ] Move to data core instead of dataview
+- [ ] Really not sure if meta b£ind is needed at all - if can set sensible keyboard shortcuts for quickadd macros
+
+### Help
+- In Dataview, use `console.log` to show the properties that can be used in code: **Ctrl+Shift+I**

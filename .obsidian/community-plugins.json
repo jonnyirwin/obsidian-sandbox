@@ -3,5 +3,7 @@
   "obsidian-meta-bind-plugin",
   "quickadd",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "js-engine"
 ]

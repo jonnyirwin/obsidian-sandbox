@@ -1,3 +1,4 @@
 {
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-teal"
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-teal",
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false
 }

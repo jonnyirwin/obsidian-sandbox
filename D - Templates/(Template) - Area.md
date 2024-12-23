@@ -1,7 +1,7 @@
 ---
 <% tp.file.include("[[(Partial template) - Common Frontmatter]]") %>
-projects: 
-  - {{VALUE:project}}
+priority:
+status:
 ---
 # <% tp.file.title %>
 

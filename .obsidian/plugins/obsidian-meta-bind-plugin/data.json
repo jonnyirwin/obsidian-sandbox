@@ -10,12 +10,48 @@
   "syncInterval": 200,
   "minSyncInterval": 50,
   "maxSyncInterval": 1000,
-  "enableJs": false,
+  "enableJs": true,
   "viewFieldDisplayNullAsEmpty": false,
   "enableSyntaxHighlighting": true,
   "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [],
-  "buttonTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "",
+      "icon": "chevron-up",
+      "hidden": true,
+      "class": "",
+      "tooltip": "Increase priority",
+      "id": "increase-priority",
+      "style": "primary",
+      "actions": []
+    },
+    {
+      "label": "",
+      "icon": "chevron-down",
+      "hidden": true,
+      "class": "",
+      "tooltip": "Decrease priority",
+      "id": "decrease-priority",
+      "style": "primary",
+      "actions": []
+    },
+    {
+      "label": "",
+      "icon": "pause",
+      "hidden": true,
+      "class": "",
+      "tooltip": "Pause",
+      "id": "pause",
+      "style": "primary",
+      "actions": [
+        {
+          "type": "inlineJS",
+          "code": "console.log(\"Hello world\")\nconsole.log({context})"
+        }
+      ]
+    }
+  ],
   "excludedFolders": [
     "templates"
   ]

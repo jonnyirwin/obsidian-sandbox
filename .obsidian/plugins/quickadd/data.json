@@ -1,13 +1,69 @@
 {
-  "choices": [],
-  "macros": [],
+  "choices": [
+    {
+      "id": "72ddc31a-febd-4891-9ed4-1b0affd7f270",
+      "name": "Params",
+      "type": "Macro",
+      "command": true,
+      "macroId": "738ce8db-6b19-4f2f-a4bd-d7be11dd0665"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Meetings",
+      "id": "738ce8db-6b19-4f2f-a4bd-d7be11dd0665",
+      "commands": [
+        {
+          "name": "meeting",
+          "type": "UserScript",
+          "id": "104de67c-fee8-4024-9913-c1cab539628b",
+          "path": "E - Scripts/meeting.js",
+          "settings": {}
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "0575e4ce-1527-4611-8644-c7c044c64f5c",
+          "choice": {
+            "id": "b56af83d-f5a3-45fc-9c4a-5164b08793e3",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "D - Templates/(Template) - Note.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:project}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.11.1",
   "disableOnlineFeatures": true,
-  "enableRibbonIcon": false,
+  "enableRibbonIcon": true,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
@@ -68,7 +124,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
-    "addDefaultAIProviders": false
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
   }
 }

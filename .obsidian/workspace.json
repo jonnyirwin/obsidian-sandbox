@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "7051a515af4824d2",
+        "id": "dabe59f9b85c5fd9",
         "type": "tabs",
         "children": [
           {
-            "id": "61db1ac663c880ee",
+            "id": "abc14a28f3acb58c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B - Notes/Setting up a new Second Brain.md",
+                "file": "B - Notes/Sample Project.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "62ca484affa0a849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "077ddc6299ea3111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test project2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test project2"
+            }
+          },
+          {
+            "id": "e8d310ea1180031b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D - Templates/(Template) - Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Template) - Note"
+            }
+          },
+          {
+            "id": "22a19f36c8585b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D - Templates/(Template) - Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Template) - Note"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Setting up a new Second Brain"
             }
           },
           {
@@ -105,7 +172,9 @@
                 "file": "B - Notes/Setting up a new Second Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Setting up a new Second Brain"
             }
           },
           {
@@ -116,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +197,9 @@
               "type": "outline",
               "state": {
                 "file": "B - Notes/Setting up a new Second Brain.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Setting up a new Second Brain"
             }
           },
           {
@@ -138,7 +211,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -147,8 +222,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "B - Notes/Setting up a new Second Brain.md"
-              }
+                "file": "test project2.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for test project2"
             }
           }
         ],
@@ -156,10 +233,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 641
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,28 +247,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "61db1ac663c880ee",
+  "active": "077ddc6299ea3111",
   "lastOpenFiles": [
-    "B - Notes/Untitled.md",
-    "B - Notes/Untitled 5.md",
-    "B - Notes/Untitled 4.md",
-    "D - Templates/(Template) - Project.md",
-    "B - Notes/Untitled 3.md",
-    "B - Notes/Untitled 2.md",
+    "B - Notes/Sample Project.md",
+    "test project2.md",
     "D - Templates/(Template) - Note.md",
     "D - Templates/(Template) - Daily Note.md",
-    "D - Templates/(Partial template) - Common Frontmatter.md",
-    "002 - Areas.md",
-    "B - Notes/Untitled 1.md",
-    "001 - Projects.md",
+    "test project1.md",
+    "test project.md",
     "B - Notes/Setting up a new Second Brain.md",
+    "{{project}}.md",
+    "E - Scripts/meeting.js~",
+    "rst.md",
+    "rstrst.md",
+    "B - Notes/Untitled.md",
+    "rstsrrst.md",
+    "E - Scripts/test.js",
+    "E - Scripts/meeting.js",
+    "README.md",
+    "LICENSE.md",
     "004 - Archives.md",
     "003 - Resources.md",
-    "README.md",
+    "002 - Areas.md",
+    "001 - Projects.md",
+    "D - Templates/(Template) - Project.md",
+    "D - Templates/(Template) - Project Tasks.md",
+    "D - Templates/(Template) - Resource.md",
+    "D - Templates/(Template) - Meeting.md",
+    "D - Templates/(Template) - Area.md",
+    "D - Templates/(Partial template) - Common Frontmatter.md",
+    "B - Notes/Untitled 5.md",
+    "B - Notes/Untitled 4.md",
     "E - Scripts",
     "D - Templates",
     "C - Media",
-    "LICENSE.md",
     "B - Notes",
     "A - Inbox"
   ]
