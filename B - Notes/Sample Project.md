@@ -2,22 +2,16 @@
 aliases: 
 type: project
 projects:
-  - test project
-areas: 
-resources: 
+  - "[[Sample Project]]"
+areas:
+  - some area
+resources:
+  - some resource,
 status: active
 priority: 3
 ---
-
-> [!NOTE] Title
-> Contents
 # Sample Project
-
-> [!NOTE]
-> > [!NOTE] Title
-
-> Contents
-
-
-> [!NOTE] Title
-> Contents
+## Meetings
+- 2024-12-27 [[another]]
+- 2024-12-27 [[meeting type metadata test]]
+- 2024-12-27 [[Meeting Test]]

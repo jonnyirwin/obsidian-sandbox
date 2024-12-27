@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dabe59f9b85c5fd9",
+        "id": "39e53cf09752a35c",
         "type": "tabs",
         "children": [
           {
-            "id": "abc14a28f3acb58c",
+            "id": "fbec2b2f2717b2cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "62ca484affa0a849",
+            "id": "06ffb7e8c1aabddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,203 @@
             }
           },
           {
-            "id": "077ddc6299ea3111",
+            "id": "1c50b5f05923c310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test project2.md",
+                "file": "B - Notes/Sample Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test project2"
+              "title": "Sample Project"
             }
           },
           {
-            "id": "e8d310ea1180031b",
+            "id": "f52468b1c6b2c373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D - Templates/(Template) - Note.md",
+                "file": "B - Notes/Sample Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Template) - Note"
+              "title": "Sample Project"
             }
           },
           {
-            "id": "22a19f36c8585b85",
+            "id": "ae5b027a2609a03f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D - Templates/(Template) - Note.md",
+                "file": "B - Notes/Sample Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Template) - Note"
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "f8b38a347b99783e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "44ed83cffc22b67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "ce8da749ad195931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "c3a38fa61bf00f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "be49995dffb2a151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "bd2ecf8211319220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "fa3959f2e3a7d982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "79f9c2b9503d1a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "41caa8ff27efc09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "2a97f6041d94a523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
+            }
+          },
+          {
+            "id": "7931593a0b3c6f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B - Notes/Sample Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample Project"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -109,7 +263,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"projects\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B - Notes/Setting up a new Second Brain.md",
+                "file": "B - Notes/Sample Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +314,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Setting up a new Second Brain"
+              "title": "Backlinks for Sample Project"
             }
           },
           {
@@ -169,12 +323,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B - Notes/Setting up a new Second Brain.md",
+                "file": "B - Notes/Sample Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Setting up a new Second Brain"
+              "title": "Outgoing links from Sample Project"
             }
           },
           {
@@ -196,10 +350,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B - Notes/Setting up a new Second Brain.md"
+                "file": "B - Notes/Sample Project.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting up a new Second Brain"
+              "title": "Outline of Sample Project"
             }
           },
           {
@@ -222,10 +376,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "test project2.md"
+                "file": "B - Notes/Sample Project.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for test project2"
+              "title": "File properties for Sample Project"
             }
           }
         ],
@@ -233,7 +387,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641
+    "width": 597
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,41 +401,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "077ddc6299ea3111",
+  "active": "7931593a0b3c6f43",
   "lastOpenFiles": [
+    "B - Notes/another.md",
     "B - Notes/Sample Project.md",
-    "test project2.md",
-    "D - Templates/(Template) - Note.md",
-    "D - Templates/(Template) - Daily Note.md",
-    "test project1.md",
-    "test project.md",
+    "B - Notes/meeting type metadata test.md",
+    "D - Templates/(Template) - Meeting.md",
+    "B - Notes/Meeting Test.md",
+    "001 - Projects.md",
     "B - Notes/Setting up a new Second Brain.md",
-    "{{project}}.md",
+    "B - Notes/test meeting.md",
+    "B - Notes/sdfds.md",
+    "B - Notes/dgf.md",
+    "B - Notes/lkjlk.md",
+    "B - Notes/fds.md",
+    "D - Templates/(Template) - Note.md",
+    "D - Templates/(Template) - Project.md",
+    "D - Templates/(Partial template) - Common Frontmatter.md",
+    "B - Notes/lkjlkjlkj.md",
+    "dfsdssdf.md",
+    "some meeting.md",
+    "E - Scripts/meeting-title.js",
+    "rewrw.md",
+    "E - Scripts/meeting-name.js",
+    "E - Scripts/current-metadata.js~",
+    "ew.md",
+    "fdgfdgfg.md",
+    "jkh.md",
+    "khjjh.md",
+    "kjlk1.md",
+    "klj.md",
+    "kjlk.md",
+    "E - Scripts/4913",
     "E - Scripts/meeting.js~",
-    "rst.md",
-    "rstrst.md",
-    "B - Notes/Untitled.md",
-    "rstsrrst.md",
     "E - Scripts/test.js",
     "E - Scripts/meeting.js",
-    "README.md",
-    "LICENSE.md",
-    "004 - Archives.md",
-    "003 - Resources.md",
-    "002 - Areas.md",
-    "001 - Projects.md",
-    "D - Templates/(Template) - Project.md",
-    "D - Templates/(Template) - Project Tasks.md",
-    "D - Templates/(Template) - Resource.md",
-    "D - Templates/(Template) - Meeting.md",
-    "D - Templates/(Template) - Area.md",
-    "D - Templates/(Partial template) - Common Frontmatter.md",
-    "B - Notes/Untitled 5.md",
-    "B - Notes/Untitled 4.md",
     "E - Scripts",
     "D - Templates",
-    "C - Media",
-    "B - Notes",
-    "A - Inbox"
+    "C - Media"
   ]
 }

@@ -68,14 +68,14 @@
 	- [ ] Areas
 	- [ ] Resources
 	- [ ] Archives
-- [ ] Meetings - automatically pickup project that it is under - using a quickadd macro which allows you to run user scripts and access the obsidian and quickadd apis.
+- [x] Meetings - automatically pickup project that it is under - using a quickadd macro which allows you to run user scripts and access the obsidian and quickadd apis. ✅ 2024-12-27
 - [ ] TODOs
 - [ ] Back and forward on daily notes
 - [ ] Startup page with keyboard shortcuts
 - [ ] Project daily actions (form of TODOs)
 - [ ] change priority/status of Projects from MOC 
 - [ ] Move to data core instead of dataview
-- [ ] Really not sure if meta b£ind is needed at all - if can set sensible keyboard shortcuts for quickadd macros
+- [ ] Really not sure if meta bind is needed at all - if can set sensible keyboard shortcuts for quickadd macros
 
 ### Help
 - In Dataview, use `console.log` to show the properties that can be used in code: **Ctrl+Shift+I**

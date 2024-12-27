@@ -1,11 +1,14 @@
-
-# Purpose of meeting if any specific
-## ISO8601 Date and time - Project - Meeting
+---
+<% tp.file.include("[[(Partial template) - Common Frontmatter]]") %>
+type: meeting
+projects: ['[[{{VALUE:firstProject}}]]']
+---
+# {{VALUE:meetingTitle}}
 
 ### Attendees
 - Jonny Irwin
 
 ### Notes
 
-- End button - and calculate meeting time in metadata.
+- 
 

@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "72ddc31a-febd-4891-9ed4-1b0affd7f270",
-      "name": "Params",
+      "name": "Project Meetings",
       "type": "Macro",
       "command": true,
       "macroId": "738ce8db-6b19-4f2f-a4bd-d7be11dd0665"
@@ -14,29 +14,38 @@
       "id": "738ce8db-6b19-4f2f-a4bd-d7be11dd0665",
       "commands": [
         {
-          "name": "meeting",
+          "name": "current-metadata",
           "type": "UserScript",
-          "id": "104de67c-fee8-4024-9913-c1cab539628b",
-          "path": "E - Scripts/meeting.js",
+          "id": "106bdf7b-e7a3-49c2-afba-7aa49dcb7a85",
+          "path": "E - Scripts/current-metadata.js",
           "settings": {}
         },
         {
-          "name": "Untitled Template Choice",
+          "name": "meeting-title",
+          "type": "UserScript",
+          "id": "03c8752a-02d3-4917-adb3-dd02fb42c181",
+          "path": "E - Scripts/meeting-title.js",
+          "settings": {}
+        },
+        {
+          "name": "Create meeting note",
           "type": "NestedChoice",
           "id": "0575e4ce-1527-4611-8644-c7c044c64f5c",
           "choice": {
             "id": "b56af83d-f5a3-45fc-9c4a-5164b08793e3",
-            "name": "Untitled Template Choice",
+            "name": "Create meeting note",
             "type": "Template",
             "command": false,
-            "templatePath": "D - Templates/(Template) - Note.md",
+            "templatePath": "D - Templates/(Template) - Meeting.md",
             "fileNameFormat": {
               "enabled": true,
-              "format": "{{VALUE:project}}"
+              "format": "{{VALUE:meetingTitle}}"
             },
             "folder": {
-              "enabled": false,
-              "folders": [],
+              "enabled": true,
+              "folders": [
+                "B - Notes"
+              ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false,
               "chooseFromSubfolders": false
@@ -51,6 +60,46 @@
             "openFileInMode": "default",
             "fileExistsMode": "Increment the file name",
             "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Add link to meeting list",
+          "type": "NestedChoice",
+          "id": "a99be085-3bbc-44dc-b890-a26792b0b8af",
+          "choice": {
+            "id": "56900623-8886-4f13-801c-78f88c04007b",
+            "name": "Add link to meeting list",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "B - Notes/{{VALUE:firstProject}}.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- {{DATE}} [[{{VALUE:meetingTitle}}]]\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## Meetings",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": true,
+              "createIfNotFoundLocation": "bottom"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
           }
         }
       ],
